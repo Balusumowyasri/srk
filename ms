@@ -1,0 +1,13 @@
+
+<html>
+<body>
+<h1>code with nano editor</h1>
+<h2>this is head
+</body>
+</html>
+`:wq
+
+
+
+
+
